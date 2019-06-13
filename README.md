@@ -12,3 +12,8 @@ Python
 virtualenv
 
 django - version of 2.0.7
+
+# Issues
+I faced an anoying issues while startig run the server:
+
+  DLL load fails on Anaconda/Windows install (python3.dll)
